@@ -1,0 +1,7 @@
+/target/
+.idea/
+mvnw
+mvnw.cmd
+.DS_Store
+*.properties
+*.iml
