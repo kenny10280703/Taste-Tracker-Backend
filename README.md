@@ -4,7 +4,6 @@ This is a university group project aimed at creating a website that displays res
 ## Overview
 - This repository includes backend source code only.
 - For frontend part and demonstration, please visit my frontend repository: https://github.com/kenny10280703/Taste-Tracker-React
-- The backend performs CRUD on SQL database, and return requested data to frontend through APIs.
 
 ## Components
 1. Controller:
